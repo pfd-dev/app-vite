@@ -1,10 +1,10 @@
-import './style.css'
-import typescriptLogo from './typescript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.ts'
+import './style.css';
+import typescriptLogo from './typescript.svg';
+import viteLogo from '/vite.svg';
+import { setupCounter } from './counter.ts';
 
 
-const numeros: string = 123123;
+
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
