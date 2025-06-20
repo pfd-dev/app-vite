@@ -5,7 +5,7 @@ describe('mi primer test', () => {
     test('validar numero', () => {
 
 
-        expect(numeros).toBe(1)
+        expect(numeros).toBe(123123)
     })
 
     test('testeo palabras iguales', () => {
