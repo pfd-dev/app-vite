@@ -1,0 +1,29 @@
+{
+  "name": "app-vite",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "vite, typescript, jest, patron MVC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfd-dev/app-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfd-dev/app-vite/issues"
+  },
+  "homepage": "https://github.com/pfd-dev/app-vite#readme",
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "vite": "6.3.5"
+  }
+}
